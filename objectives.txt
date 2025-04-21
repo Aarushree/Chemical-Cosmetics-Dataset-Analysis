@@ -1,0 +1,72 @@
+1. Most Common Chemicals in Cosmetics
+Goal: Identify which chemicals are used most often.
+
+Visuals:
+
+Bar chart: Top 10 chemicals by frequency
+
+Word cloud: All chemical names
+
+2. Trend of Chemical Usage Over Time
+Goal: Understand how chemical reporting has changed (Initial or Recent Reported Dates).
+
+Visuals:
+
+Line chart: Chemical usage over years
+
+Stacked area chart: Category-wise chemical trends
+
+3. Most Popular Categories & Subcategories
+Goal: Determine the dominant types of cosmetic products.
+
+Visuals:
+
+Pie chart: Share of primary categories
+
+Treemap or Sunburst chart: Category → Subcategory breakdown
+
+4. Top Brands & Companies by Product Count
+Goal: Discover which brands/companies are most active.
+
+Visuals:
+
+Horizontal bar chart: Top 10 brands
+
+Company-wise heatmap by category
+
+5. Discontinued Products Analysis
+Goal: Analyze trends around discontinued items.
+
+Visuals:
+
+Histogram: Discontinuation by year
+
+Line chart: Yearly product discontinuation count
+
+6. Hazardous Chemicals Alert Dashboard
+Goal: Highlight potentially concerning chemicals.
+
+Visuals:
+
+Interactive table: Chemical + frequency + categories used
+
+Conditional formatting: Toxic chemicals (if list is available)
+
+7. Correlation Between Chemical Count & Product Popularity
+Goal: Explore if more chemicals → more products or vice versa.
+
+Visuals:
+
+Scatter plot: ChemicalCount vs Product frequency
+
+Boxplot: ChemicalCount distribution by category
+
+8. Time Evolution of Chemical Reporting
+Goal: Analyze how chemical reporting dates evolved.
+
+Visuals:
+
+Line chart: InitialDateReported vs ChemicalCount
+
+Gantt chart (optional): Products lifecycle (Initial → Discontinued)
+
